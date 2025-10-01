@@ -1,0 +1,12 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Publications"
+    url: /publications/
+  - title: "Service"
+    url: /service/
+  - title: "Activities"
+    url: /activities/
+  - title: "News"
+    url: /news/
+

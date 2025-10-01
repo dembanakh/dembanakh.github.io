@@ -1,0 +1,21 @@
+title: "Demian Banakh"
+email: "demian.banakh@doctoral.uj.edu.pl"
+description: "PhD student in TCS"
+baseurl: "" # leave empty since this is a user site
+url: "https://dembanakh.github.io"
+
+# Use Minimal Mistakes remote theme
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-include-cache
+
+author:
+  name: "Demian Banakh"
+  bio: "PhD student in TCS"
+  location: "Jagiellonian University, Poland"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:demian.banakh@doctoral.uj.edu.pl"
+
