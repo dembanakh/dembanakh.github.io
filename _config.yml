@@ -12,7 +12,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "Demian Banakh"
+  name: ""
   bio: "PhD student in TCS"
   location: "Jagiellonian University, Poland"
   links:
@@ -20,7 +20,8 @@ author:
       icon: "fas fa-envelope"
       url: ""
 
-show_recent_posts: false
+locale: en
+recent_posts_title: "Recent"
 
 include:
   - _pages
