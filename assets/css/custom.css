@@ -1,12 +1,11 @@
 /* Adjust homepage sidebar width */
-.home .home-hero + .home-inner .home-sidebar {
-    flex: 0 0 30%;  /* sidebar width */
-    max-width: 30%;
+@media (min-width: 768px) {
+  .home .home-hero + .home-inner .home-sidebar {
+      flex: 0 0 35%;
+      max-width: 35%;
+  }
+  .home .home-hero + .home-inner .home-content {
+      flex: 0 0 65%;
+      max-width: 65%;
+  }
 }
-
-/* Adjust content area accordingly */
-.home .home-hero + .home-inner .home-content {
-    flex: 0 0 70%;  /* main content width */
-    max-width: 70%;
-}
-
