@@ -1,0 +1,12 @@
+/* Adjust homepage sidebar width */
+.home .home-hero + .home-inner .home-sidebar {
+    flex: 0 0 30%;  /* sidebar width */
+    max-width: 30%;
+}
+
+/* Adjust content area accordingly */
+.home .home-hero + .home-inner .home-content {
+    flex: 0 0 70%;  /* main content width */
+    max-width: 70%;
+}
+

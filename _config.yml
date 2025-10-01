@@ -19,8 +19,23 @@ author:
       icon: "fas fa-envelope"
       url: ""
 
-locale: en
-recent_posts_title: "Recent"
+show_recent_posts: false
 
 include:
   - _pages
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+  - scope:
+      path: ""
+    values:
+      custom_css: "/assets/css/custom.css"
+
+sass:
+  style: compressed
+
+
