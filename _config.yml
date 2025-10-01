@@ -19,3 +19,8 @@ author:
       icon: "fas fa-envelope"
       url: "mailto:demian.banakh@doctoral.uj.edu.pl"
 
+locale: en
+recent_posts_title: "Recent"
+
+include:
+  - _pages
