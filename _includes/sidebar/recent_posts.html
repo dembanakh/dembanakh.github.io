@@ -1,0 +1,9 @@
+<ul class="recent-posts">
+{% for post in site.posts limit:5 %}
+  <li>
+    <span class="post-date">{{ post.date | date: "%-d %b" }}</span>  
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+{% endfor %}
+</ul>
+

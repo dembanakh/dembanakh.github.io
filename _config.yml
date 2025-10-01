@@ -15,9 +15,9 @@ author:
   bio: "PhD student in TCS"
   location: "Jagiellonian University, Poland"
   links:
-    - label: "Email"
+    - label: "name.surname at doctoral.uj.edu.pl"
       icon: "fas fa-envelope"
-      url: "mailto:demian.banakh@doctoral.uj.edu.pl"
+      url: ""
 
 locale: en
 recent_posts_title: "Recent"
