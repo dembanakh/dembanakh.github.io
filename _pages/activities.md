@@ -2,6 +2,7 @@
 title: "Academic Activities"
 permalink: /activities/
 layout: single
+classes: wide
 ---
 
 - Sep 2025: Attended [CSP World Congress](https://cspworldcongress.org/)

@@ -5,5 +5,5 @@ layout: single
 ---
 
 ## Reviewed for
-- [*MFCS'25](https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-345)
+- [MFCS'25](https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-345)
 
