@@ -6,6 +6,7 @@ url: "https://dembanakh.github.io"
 
 # Use Minimal Mistakes remote theme
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "aqua"
 
 plugins:
   - jekyll-include-cache
@@ -30,10 +31,12 @@ defaults:
       type: posts
     values:
       layout: single
+      show_date: true
+      date_format: "%-d %b"
   - scope:
       path: ""
     values:
-      custom_css: "/assets/css/custom.css"
+      custom_css: "/assets/css/custom.scss"
 
 sass:
   style: compressed
