@@ -8,5 +8,7 @@ $right-sidebar-width: 400px;
 $right-sidebar-width-narrow: 300px;
 $right-sidebar-width-wide: 500px;
 
+$main-horizontal-padding: 0;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
