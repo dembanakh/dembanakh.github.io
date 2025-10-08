@@ -34,10 +34,6 @@ defaults:
       layout: single
       show_date: true
       date_format: "%-d %b"
-  - scope:
-      path: ""
-    values:
-      custom_css: "/assets/css/custom.scss"
 
 sass:
   style: compressed
