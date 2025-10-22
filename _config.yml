@@ -22,7 +22,6 @@ author:
       url: ""
 
 locale: en
-recent_posts_title: "Recent"
 
 include:
   - _pages
