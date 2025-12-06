@@ -5,7 +5,7 @@ layout: single
 classes: wide
 ---
 
-_ Nov 2025: Gave a talk at IM CAS on [Classical simulation of quantum CSP strategies](https://www.math.cas.cz/index.php/events/event/4073)
+- Nov 2025: Gave a talk at IM CAS on [Classical simulation of quantum CSP strategies](https://www.math.cas.cz/index.php/events/event/4073)
 - Oct 2025: Research visit at TU Graz
 - Sep 2025: Attended [CSP World Congress](https://cspworldcongress.org/)
 - Jun 2025: Attended and gave a talk at [LICS](https://lics.siglog.org/lics25/)
