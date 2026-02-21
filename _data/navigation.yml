@@ -9,4 +9,5 @@ main:
     url: /activities/
   - title: "News"
     url: /news/
-
+  - title: "Map"
+    url: /map/

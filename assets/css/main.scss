@@ -14,3 +14,14 @@ $right-sidebar-width-wide: 500px;
 .archive {
   padding-inline-end: 0;
 }
+
+.page {
+  float: left;
+  width: 100%;
+
+  &__inner-wrap {
+    float: left;
+    width: 100%;
+    margin-left: 0;
+  }
+}
