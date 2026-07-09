@@ -5,7 +5,7 @@ layout: single
 classes: wide
 ---
 
-- May 2026: Gave a talk at Oxford University on [Classical simulation of quantum CSP strategies](https://www.cs.ox.ac.uk/seminars/2809.html)
+- May 2026 <img src="https://flagcdn.com/gb.svg" width="30" alt="GB"> Gave a talk at Oxford University on [Classical simulation of quantum CSP strategies](https://www.cs.ox.ac.uk/seminars/2809.html)
 - Nov 2025: Gave a talk at IM CAS on [Classical simulation of quantum CSP strategies](https://www.math.cas.cz/index.php/events/event/4073)
 - Oct 2025: Research visit at TU Graz
 - Sep 2025: Attended [CSP World Congress](https://cspworldcongress.org/)
