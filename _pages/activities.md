@@ -5,11 +5,13 @@ layout: single
 classes: wide
 ---
 
-- October 2026 <img src="https://flagcdn.com/se.svg" width="30" alt="SE"> Research visit at KTH
+- Oct 2026 <img src="https://flagcdn.com/se.svg" width="30" alt="SE"> Research visit at KTH
+- Sep 2026 <img src="https://flagcdn.com/it.svg" width="30" alt="IT"> Attending CSP World Congress 
+- Sep 2026 <img src="https://flagcdn.com/gb.svg" width="30" alt="GB"> Research visit at Durham University 
 
 ___
 
-- June 2026 <img src="https://flagcdn.com/pt.svg" width="30" alt="PT"> Attended and gave a talk at [LICS](https://lics.siglog.org/lics26/)
+- Jun 2026 <img src="https://flagcdn.com/pt.svg" width="30" alt="PT"> Attended and gave a talk at [LICS](https://lics.siglog.org/lics26/)
 - May 2026 <img src="https://flagcdn.com/gb.svg" width="30" alt="GB"> Gave a talk at Oxford University on [Classical simulation of quantum CSP strategies](https://www.cs.ox.ac.uk/seminars/2809.html)
 - Nov 2025 <img src="https://flagcdn.com/cz.svg" width="30" alt="CZ"> Gave a talk at IM CAS on [Classical simulation of quantum CSP strategies](https://www.math.cas.cz/index.php/events/event/4073)
 - Oct 2025 <img src="https://flagcdn.com/at.svg" width="30" alt="AT"> Research visit at TU Graz
