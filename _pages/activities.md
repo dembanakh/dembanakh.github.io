@@ -6,9 +6,6 @@ classes: wide
 ---
 
 - Oct 2026 <img src="https://flagcdn.com/se.svg" width="30" alt="SE"> Research visit at KTH
-
-___
-
 - Sep 2026 <img src="https://flagcdn.com/it.svg" width="30" alt="IT"> Attended CSP World Congress
 - Sep 2026 <img src="https://flagcdn.com/gb.svg" width="30" alt="GB"> Research visit at Durham University
 - Jun 2026 <img src="https://flagcdn.com/pt.svg" width="30" alt="PT"> Attended and gave a talk at [LICS](https://lics.siglog.org/lics26/)
